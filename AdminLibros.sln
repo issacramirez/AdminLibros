@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminLibros", "AdminLibros\AdminLibros.csproj", "{570AD808-AF54-4D6F-9057-C063CB707856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Manager", "DataAccess.Manager\DataAccess.Manager.csproj", "{266B56C6-D662-463F-8BDB-D2CF85444E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570AD808-AF54-4D6F-9057-C063CB707856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570AD808-AF54-4D6F-9057-C063CB707856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570AD808-AF54-4D6F-9057-C063CB707856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570AD808-AF54-4D6F-9057-C063CB707856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266B56C6-D662-463F-8BDB-D2CF85444E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266B56C6-D662-463F-8BDB-D2CF85444E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266B56C6-D662-463F-8BDB-D2CF85444E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266B56C6-D662-463F-8BDB-D2CF85444E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9289C210-4D86-4FD0-A60C-6B10F8614B4D}
+	EndGlobalSection
+EndGlobal
